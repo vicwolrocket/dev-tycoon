@@ -1,0 +1,28 @@
+{
+"items":
+[
+"Installer",
+"Its a program users can use to install your game.",
+"1",
+
+"Movement",
+"Allows players to move with the joystick or keys.",
+"6",
+
+"Rendering",
+"Shows the players everything in the game, like the player or objects.",
+"20",
+
+"Your own website",
+"People need to find your game easily!",
+"100",
+
+"Achievements",
+"Look ma, no hands! ACHIEVEMENT EARNED: SNAP YOUR NECK",
+"200",
+
+
+
+"end"
+]
+}
